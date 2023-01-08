@@ -2,14 +2,14 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "git+https://github.com/hnejman/goit-js-hw-08/src/",
+  "homepage": "git+https://hnejman.github.io/goit-js-hw-08/src/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/src/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://hnejman.github.io/goit-js-hw-08/src/"
+    "url": "git+https://github.com/hnejman/goit-js-hw-08/src/"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
